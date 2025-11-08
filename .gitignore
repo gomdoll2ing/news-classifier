@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+*.pt
+*.bin
+.DS_Store
+/data/
+checkpoints/
+news-classifier-checkpoints/
+/dev/shm/
